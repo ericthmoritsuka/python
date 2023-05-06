@@ -31,4 +31,4 @@ def fibonacciv3(n):
 #   print(fibonacci(n))
 #   n-=1
 
-print(fibonacciv3(40))
+#print(fibonacciv3(40))
